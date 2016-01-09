@@ -1,0 +1,28 @@
+name: Servus Foto
+favicon: null
+layout_spectrum: 0.939231941010803
+typography_spectrum: 0.48351437831297517
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.35329789388924837
+  lightness: 0.7434741021133959
+  saturation: 0.5118943271227181
+  rhythmicContrast: 0.9110794090665877
+purpose: []
