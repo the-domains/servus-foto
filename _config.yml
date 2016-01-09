@@ -1,7 +1,7 @@
 name: Servus Foto
 favicon: null
-layout_spectrum: 0.939231941010803
-typography_spectrum: 0.48351437831297517
+layout_spectrum: 1
+typography_spectrum: 0.23952
 cta:
   domain: null
   bucket: null
